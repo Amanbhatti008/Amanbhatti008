@@ -1,49 +1,66 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aman+Bhatti!+%F0%9F%91%8B;Python+Developer;AI+%26+ML+Enthusiast;Welcome+to+my+Profile!" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aman+Bhatti!+%F0%9F%91%8B;AI+%2F+ML+Researcher;Computer+Vision+Specialist;Building+Scalable+AI+Systems" alt="Typing Effect" />
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eHdnOG5oZWF4azN4Ynd4Ynd4Ynd4Ynd4Ynd4/L1R1TVq2ZSgnW/giphy.gif" width="100%" style="border-radius: 10px;" />
   
-  <br/>
-
-  <a href="https://linkedin.com/in/aman-bhatti01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:amanbhatti00187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-
   <br/><br/>
 
-  <h3>👨‍💻 About Me</h3>
-  <p>I am a B.Tech CSE Student passionate about <b>Artificial Intelligence</b> and <b>Python Development</b>.<br>Currently building cool projects like <i>Face Recognition</i> & <i>Virtual Mouse</i>.</p>
+  <a href="https://linkedin.com/in/aman-bhatti01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amanbhatti00187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  ---
+</div>
 
-  <h3>🛠️ Languages & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+<br/>
 
-  ---
+## 👨‍💻 About Me
+[cite_start]I am a **B.Tech CSE Student** at COER University and an aspiring **AI Engineer**[cite: 9, 49].  
+[cite_start]My focus is on solving real-world problems using **Deep Learning** and **Computer Vision**[cite: 10, 21].
 
-  <h3>🔥 My GitHub Stats</h3>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=radical&hide_border=true" alt="Aman's Streak" />
-  </p>
+* [cite_start]🔭 I’m currently working on **Generative AI & Multimodal Systems**[cite: 104].
+* [cite_start]🏆 **Hackathons:** Built ML prototypes under 24-hour deadlines in 3 Hackathons[cite: 95].
+* [cite_start]☁️ **Certified:** AWS Machine Learning & Oracle AI Foundations Associate[cite: 32, 46].
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aman's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbhatti008&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+---
 
+## 🛠️ Tech Stack & Tools
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+
+---
+
+## 🚀 Featured Projects
+
+### 🖱️ [AI-Based Virtual Mouse](https://github.com/Amanbhatti008)
+> *Computer Vision | Python | MediaPipe*
+* Developed a gesture-controlled navigation system.
+* [cite_start]**Impact:** Achieved **95% accuracy** in cursor movement using hand gestures[cite: 66].
+
+### 👤 [Face Recognition Attendance System](https://github.com/Amanbhatti008)
+> *OpenCV | Python | Tkinter*
+* Engineered a real-time attendance system with **Liveness Detection**.
+* [cite_start]**Impact:** Reduced manual attendance tracking time by **70%**[cite: 77].
+
+### 🎙️ [Voice Calculator](https://github.com/Amanbhatti008)
+> *NLP | Speech-to-Text | Python*
+* [cite_start]Built a voice-enabled calculator ensuring accessibility with Dark/Light themes[cite: 71, 73].
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=radical&hide_border=true" alt="Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Amanbhatti008&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbhatti008&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </div>
