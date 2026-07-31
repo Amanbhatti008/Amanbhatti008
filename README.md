@@ -1,89 +1,239 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aman+Bhatti!+%F0%9F%91%8B;Building+Low-Latency+Trading+Systems;GenAI+%26+Large+Language+Models;C%2B%2B+%26+Python+Developer" alt="Typing Effect" />
+# Aman Bhatti
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-  
-  <br/>
+### Software Engineer | Distributed Systems | Backend Engineering | Systems Programming
 
-  <a href="https://linkedin.com/in/aman-bhatti01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:amanbhatti00187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/u/Amanbhatti008/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
-  </a>
+B.Tech Computer Science Undergraduate building scalable,
+reliable and high-performance software systems.
 
-  <br/><br/>
+<br/>
 
-  <h3>👨‍💻 Engineering Intelligence</h3>
-  <p align="center" style="max-width: 600px;">
-    I am a <b>Computer Science Undergraduate</b> bridging the gap between <br><b>Core Software Engineering (C++)</b> and <b>Artificial Intelligence</b>.
-    <br><br>
-    Currently focused on architecting <b>High-Frequency Trading Bots</b> and <br><b>Retrieval-Augmented Generation (RAG)</b> pipelines for enterprise data.
-  </p>
+<a href="https://linkedin.com/in/aman-bhatti01">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  ---
+<a href="https://github.com/Amanbhatti008">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+</a>
 
-  <h3>🛠️ Arsenal & Technologies</h3>
-  
-  <p><b>Languages</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
+<a href="https://leetcode.com/u/Amanbhatti008/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-  <p><b>AI & Cloud Intelligence</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  </p>
+</div>
 
-  ---
 
-  <h3>🚀 Key Projects</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <b>📈 HFT Algo-Trading Bot</b>
-        <br>
-        <br>
-        Low-latency trading engine using <b>C++ (Execution)</b> & <b>Python (ML Strategy)</b>.
-        <br>
-        <i>Tech: C++, WebSockets, LSTM</i>
-      </td>
-      <td align="center" width="50%">
-        <b>🤖 RAG Document Assistant</b>
-        <br>
-        <br>
-        GenAI Chatbot capable of querying complex PDFs using Vector DBs.
-        <br>
-        <i>Tech: LangChain, Pinecone, GPT-4</i>
-      </td>
-    </tr>
-  </table>
+---
 
-  ---
+# 👨‍💻 About Me
 
-  <h3>🔥 Performance Metrics</h3>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=radical&hide_border=true" alt="Aman's Streak" />
-  </p>
+I am a Computer Science undergraduate passionate about designing
+and engineering software systems with focus on:
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aman's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbhatti008&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+- Distributed Systems
+- Backend Engineering
+- Systems Programming
+- Cloud Native Applications
+- Data Structures & Algorithms
 
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Amanbhatti008&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+I enjoy understanding how modern large-scale systems work internally:
+from networking, databases, caching layers, message queues,
+and distributed architectures to production deployment.
+
+
+Currently exploring:
+
+- System Design
+- C++ Performance Engineering
+- Backend Architecture
+- Cloud Infrastructure
+- AI-powered Applications
+
+
+---
+
+# 🛠️ Technical Skills
+
+
+## Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql)
+
+
+## Backend & Distributed Systems
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+
+## Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+
+
+## AI Engineering
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-purple?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-black?style=for-the-badge)
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## ⚡ TurboCache
+
+### High Performance C++20 In-Memory Cache Engine
+
+
+A low-latency caching system built to explore
+modern systems programming, concurrency and memory optimization.
+
+
+### Engineering Highlights:
+
+- Designed a custom in-memory cache engine using modern C++20
+- Implemented memory optimization using `std::pmr`
+- Built event-driven networking using Linux `epoll`
+- Implemented concurrent access using lock striping
+- Developed LRU based eviction mechanisms
+- Added benchmarking and performance monitoring
+
+
+### Tech Stack:
+
+`C++20` `CMake` `Linux Networking` `Concurrency` `Docker`
+
+
+Repository:
+
+https://github.com/Amanbhatti008/TurboCache
+
+
+
+---
+
+
+## 🔄 FlowForge AI
+
+### Distributed Workflow Orchestration Platform
+
+
+A cloud-native workflow automation platform designed around
+event-driven architecture and distributed task execution.
+
+
+### Engineering Highlights:
+
+- Designed backend services using Spring Boot
+- Built asynchronous execution using Apache Kafka
+- Implemented distributed locking with Redis
+- Developed workflow management APIs
+- Added PostgreSQL based persistence layer
+- Containerized services using Docker
+- Designed scalable architecture for future microservices expansion
+
+
+### Tech Stack:
+
+`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `React` `Docker`
+
+
+Repository:
+
+https://github.com/Amanbhatti008/FLOWFORGE-AI
+
+
+
+---
+
+
+## 🚗 LuminaVision ADAS
+
+
+### AI Powered Driver Assistance System
+
+
+Computer vision based safety system for real-time
+environment perception and driver monitoring.
+
+
+### Engineering Highlights:
+
+- Real-time object detection pipeline
+- Lane detection system
+- Driver fatigue monitoring
+- Collision risk analysis
+
+
+### Tech Stack:
+
+`Python` `OpenCV` `YOLO` `Computer Vision`
+
+
+
+---
+
+
+# 📊 Coding Profile
+
+
+## LeetCode
+
+- 170+ Problems Solved
+- Contest Rating: 1600+
+- Strong Areas:
+  - Data Structures
+  - Algorithms
+  - Dynamic Programming
+  - Problem Solving
+
+
+
+---
+
+# 🏗️ Engineering Principles
+
+
+I focus on building software with:
+
+- Clean architecture
+- Scalable system design
+- Efficient algorithms
+- Reliable backend services
+- Performance optimization
+- Production-ready development practices
+
+
+---
+
+# 📈 Currently Improving
+
+
+- Advanced System Design
+- Distributed Systems
+- Cloud Architecture
+- Low-Level Systems Programming
+- Competitive Programming
+
+
+---
+
+<div align="center">
+
+### Building reliable systems, one component at a time 🚀
 
 </div>
