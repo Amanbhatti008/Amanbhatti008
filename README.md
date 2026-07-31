@@ -1,411 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aman%20Bhatti&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Progress;Backend+%7C+Systems+%7C+Cloud+Engineering;Building+Scalable+Software+Systems;Computer+Science+Undergraduate"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aman+Bhatti+%F0%9F%91%8B;Software+Engineer;Building+Distributed+Systems;Backend+%7C+C%2B%2B+%7C+Java+%7C+Cloud" />
 
 <br/>
 
-<a href="https://github.com/Amanbhatti008">
-<img src="https://img.shields.io/badge/GitHub-AmanBhatti008-black?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header"/>
 
+</div>
+
+# 👨‍💻 Aman Bhatti
+
+<div align="center">
+
+### Software Engineer | Backend Architecture | Distributed Systems
+
+Building scalable, fault-tolerant software systems by combining  
+**Core Fundamentals, Production Engineering, and AI-Driven Architecture.**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Amanbhatti008">
+<img src="https://img.shields.io/badge/GitHub-Amanbhatti008-black?style=for-the-badge&logo=github"/>
+</a>
 <a href="https://linkedin.com/in/aman-bhatti01">
 <img src="https://img.shields.io/badge/LinkedIn-Aman%20Bhatti-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://leetcode.com/u/Amanbhatti008">
 <img src="https://img.shields.io/badge/LeetCode-1600%2B-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
 
+---
 
-# 👨‍💻 About Me
+# 🧠 Engineering Profile
 
+I am a Computer Science undergraduate specializing in designing and building resilient backend architectures. My core focus lies in understanding how components are stitched together under the hood to ensure zero data loss and extreme scalability.
 
-I am a Computer Science undergraduate focused on building
-**scalable, reliable and production-oriented software systems.**
+**Domain Focus:**
+*   **Distributed Systems:** Message Queues (Kafka), Fault Tolerance, Distributed Locks.
+*   **Backend Engineering:** Scalable REST APIs, Connection Pooling, Idempotency.
+*   **Low-Level Systems:** Memory optimization, Concurrency, C++20 standard.
+*   **Open Source:** Contributor at GirlScript Summer of Code (GSSoC) 2026.
 
+I enjoy understanding the complete lifecycle of a production system:
 
-My engineering interests revolve around:
-
-
-- Backend Engineering
-- Software Architecture
-- Distributed Systems
-- Cloud Infrastructure
-- System Design
-- Performance Engineering
-- Artificial Intelligence Applications
-
-
-I enjoy understanding how real-world systems are designed:
-
-
-
-User Request
-
-  ↓
-
-API Gateway
-
-  ↓
-
-Backend Services
-
-  ↓
-
-Message Queue
-
-  ↓
-
-Database + Cache
-
-  ↓
-
-Cloud Infrastructure
-
-
-
-Currently improving my skills in:
-
-
-- Advanced Data Structures & Algorithms
-- Object Oriented Design
-- Operating Systems
-- Computer Networks
-- Database Internals
-- Large Scale System Design
-
-
+> Client Request ➔ Load Balancer ➔ Backend Services ➔ Message Queue (DLQs) ➔ PostgreSQL + Redis ➔ Cloud Infrastructure
 
 ---
 
+# ⚙️ Technical Stack
 
-# 🛠️ Technology Stack
-
-
-## Languages
-
-
+## Programming Languages
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,java,python,sql"/>
-
 </div>
 
-
-## Backend Engineering
-
-
+## Backend & Distributed Systems
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,redis"/>
-
+<img src="https://skillicons.dev/icons?i=spring,kafka,redis,postgres,nodejs"/>
 </div>
 
-
-## Cloud & DevOps
-
-
+## Cloud, DevOps & Infrastructure
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,aws,githubactions"/>
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,aws"/>
 </div>
-
-
-## AI / ML
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</div>
-
-
 
 ---
-
 
 # 🚀 Featured Engineering Projects
 
+## 🔄 FlowForge AI | *Distributed Workflow Orchestration Platform*
 
-## ⚡ TurboCache
-
-### High Performance C++20 In-Memory Cache Engine
-
-
-A low-latency caching system built to explore
-modern C++ systems programming, concurrency and performance optimization.
-
+An AWS Step Functions-style orchestration platform built to execute thousands of concurrent background tasks with zero data loss during server crashes.
 
 ### Engineering Highlights
+*   **Absolute Idempotency:** Implemented Redis Watchdog locks and PostgreSQL composite constraints to make duplicate execution mathematically impossible.
+*   **Chaos Tested Fault Tolerance:** Engineered manual ACKs and Dead Letter Queues (DLQ) in Apache Kafka to handle corrupted JSONs (Poison Pills) without stalling the consumer.
+*   **Resource Optimization:** Replaced standard annotations with `TransactionTemplate` to keep the HikariCP connection pool 100% free during high-latency API calls, preventing deadlocks.
+*   **AI Integration:** React Flow DAG interface with OpenAI-powered text-to-workflow generation and automated Root Cause Analysis (RCA) for failed nodes.
 
-
-- Modern C++20 based architecture
-- Custom memory management using `std::pmr`
-- Event-driven networking using Linux `epoll`
-- Concurrent cache operations
-- Sharded LRU eviction strategy
-- Performance benchmarking
-- Docker based deployment
-
-
-### Architecture
-
-
-
-Client
-
-↓
-
-Network Layer
-
-↓
-
-Cache Engine
-
-↓
-
-Memory Manager
-
-↓
-
-Storage Layer
-
-
-
-### Tech Stack
-
-
-`C++20` `CMake` `Linux` `Concurrency` `Networking` `Docker`
-
-
-Repository:
-
-https://github.com/Amanbhatti008/TurboCache
-
-
+**Stack:** Java, Spring Boot, Apache Kafka, Redis, PostgreSQL, Docker
 
 ---
 
+## ⚡ TurboCache | *High-Performance C++20 In-Memory Cache Engine*
 
-# 🔄 FlowForge AI
-
-
-## Distributed Workflow Orchestration Platform
-
-
-A cloud-native workflow automation platform designed around
-event-driven backend architecture.
-
-
-### System Architecture
-
-
-
-React Frontend
-
-    ↓
-
-Spring Boot Services
-
-    ↓
-
-Kafka Event Pipeline
-
-    ↓
-
-Worker Execution Engine
-
-    ↓
-
-PostgreSQL + Redis
-
-
+A low-latency caching engine built using modern C++ concepts, focusing on extreme memory optimization and event-driven networking.
 
 ### Engineering Highlights
+*   **Systems Programming:** Engineered using modern C++20 paradigms and custom memory management via `std::pmr`.
+*   **High-Throughput Networking:** Implemented Linux `epoll` based event loops for non-blocking network I/O.
+*   **Concurrency & Eviction:** Built a thread-safe architecture with a sharded LRU eviction strategy to minimize lock contention.
 
-
-- RESTful backend architecture
-- Event-driven communication
-- Kafka based message processing
-- Distributed task execution
-- Redis distributed locking
-- JWT authentication
-- Containerized deployment
-
-
-### Tech Stack
-
-
-`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `React` `Docker`
-
-
-Repository:
-
-https://github.com/Amanbhatti008/FLOWFORGE-AI
-
-
+**Stack:** C++20, CMake, Linux Networking, Multithreading
 
 ---
 
+## 🚗 LuminaVision ADAS | *AI-Based Driver Assistance System*
 
-# 🚗 LuminaVision ADAS
-
-
-## AI Based Driver Assistance System
-
-
-Computer vision based safety system focused on
-real-time perception and intelligent analysis.
-
+A computer vision-based safety system focused on real-time perception, demonstrating end-to-end integration of ML models.
 
 ### Features
+*   Real-time object and lane detection using YOLO and OpenCV.
+*   Low-latency driver monitoring and collision risk estimation.
 
-
-- Object Detection
-- Lane Detection
-- Driver Monitoring
-- Collision Risk Assessment
-
-
-### Tech Stack
-
-
-`Python` `OpenCV` `YOLO` `Deep Learning` `Computer Vision`
-
-
+**Stack:** Python, OpenCV, TensorFlow, Deep Learning
 
 ---
 
-
-# 📊 Problem Solving
-
+# 📊 Competitive Programming & Open Source
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Amanbhatti008?theme=dark&ext=contest"/>
-
+<img src="https://leetcard.jacoblin.cool/Amanbhatti008?theme=dark&font=Baloo&ext=contest"/>
 </div>
 
-
-### Competitive Programming
-
-
-- 170+ LeetCode Problems Solved
-- Contest Rating 1600+
-- Strong Areas:
-
-  - Arrays
-  - Trees
-  - Graph Algorithms
-  - Dynamic Programming
-  - Data Structures
-
-
+*   **Algorithms & Data Structures:** 170+ LeetCode Problems Solved. Rating 1600+.
+*   **Performance Optimization:** Focus on algorithmic pattern recognition, memory limits, and converting brute-force $O(n^2)$ logic into optimized $O(n)$ implementations.
+*   **Open Source:** Contributor to **GirlScript Summer of Code (GSSoC) 2026** (Open Source & AI/Agents tracks).
 
 ---
 
+# 🏗️ Engineering Philosophy
 
-# 📚 Computer Science Fundamentals
+> "Great software is not just about writing code; it's about understanding how systems, services, and components are stitched together to make a product resilient at scale."
 
-
-<div align="center">
-
-
-| Area | Topics |
-|---|---|
-| Algorithms | Data Structures, Problem Solving, Complexity Analysis |
-| OOP | Design Principles, Object Modeling |
-| Operating Systems | Processes, Threads, Memory Management |
-| Networks | HTTP, TCP/IP, Communication Models |
-| Databases | SQL, Indexing, Transactions |
-| Software Engineering | Architecture, Testing, Design Patterns |
-| System Design | Scalability, Reliability, Trade-offs |
-
-
-</div>
-
-
-
----
-
-
-# 🏗️ Engineering Principles
-
-
-I believe great software engineering is about:
-
-
-
-Clean Code
-+
-Strong Fundamentals
-+
-System Thinking
-+
-Continuous Improvement
-
-
-
-Things I focus on:
-
-
-✅ Writing maintainable software
-
-✅ Designing scalable architectures
-
-✅ Understanding engineering trade-offs
-
-✅ Building production-ready applications
-
-✅ Improving problem solving ability
-
-
-
----
-
-
-# 📈 Currently Learning
-
-
-🚀 Advanced System Design
-
-🚀 Distributed Systems
-
-🚀 Backend Scalability
-
-🚀 Cloud Infrastructure
-
-🚀 Low Level Programming
-
-🚀 Production Engineering
-
-
-
----
-
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=tokyonight&hide_border=true"/>
-
+*   ✅ **Clean & Maintainable:** Adhering strictly to SOLID principles and Design Patterns (LLD).
+*   ✅ **Production-Oriented:** Building systems with CI/CD, Docker, and comprehensive testing in mind.
+*   ✅ **Trade-off Analysis:** Always ready to justify why a specific database, cache, or queue was chosen for the architecture.
 
 <br/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-
-### Building towards becoming a Software Engineer 🚀
-
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
 </div>
