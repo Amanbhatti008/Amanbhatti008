@@ -1,24 +1,41 @@
 <div align="center">
 
-# Aman Bhatti
-
-### Software Engineer | Distributed Systems | Backend Engineering | Systems Programming
-
-B.Tech Computer Science Undergraduate building scalable,
-reliable and high-performance software systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aman+Bhatti+%F0%9F%91%8B;Software+Engineer+in+Progress;Building+Distributed+Systems;Backend+%7C+C%2B%2B+%7C+Cloud+%7C+AI+Systems" />
 
 <br/>
 
-<a href="https://linkedin.com/in/aman-bhatti01">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header"/>
+
+</div>
+
+
+# 👨‍💻 Aman Bhatti
+
+<div align="center">
+
+### Software Engineer | Backend Engineering | Distributed Systems
+
+Building scalable and reliable software systems by combining  
+**Computer Science fundamentals, System Design and Production Engineering.**
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
 
 <a href="https://github.com/Amanbhatti008">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Amanbhatti008-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/Amanbhatti008/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://linkedin.com/in/aman-bhatti01">
+<img src="https://img.shields.io/badge/LinkedIn-Aman%20Bhatti-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Amanbhatti008">
+<img src="https://img.shields.io/badge/LeetCode-1600%2B-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
@@ -26,72 +43,92 @@ reliable and high-performance software systems.
 
 ---
 
-# 👨‍💻 About Me
 
-I am a Computer Science undergraduate passionate about designing
-and engineering software systems with focus on:
+# 🧠 Engineering Profile
+
+
+I am a Computer Science undergraduate focused on designing and building
+scalable software systems.
+
+My engineering interests include:
 
 - Distributed Systems
 - Backend Engineering
-- Systems Programming
-- Cloud Native Applications
-- Data Structures & Algorithms
-
-
-I enjoy understanding how modern large-scale systems work internally:
-from networking, databases, caching layers, message queues,
-and distributed architectures to production deployment.
-
-
-Currently exploring:
-
 - System Design
-- C++ Performance Engineering
-- Backend Architecture
-- Cloud Infrastructure
-- AI-powered Applications
+- Cloud Native Applications
+- Performance Engineering
+- AI Enabled Systems
+
+
+I enjoy understanding how production systems work internally:
+
+
+
+Client Request
+|
+↓
+API Layer
+|
+↓
+Backend Services
+|
+↓
+Message Queue
+|
+↓
+Database + Cache
+|
+↓
+Cloud Infrastructure
+
 
 
 ---
 
-# 🛠️ Technical Skills
+
+# ⚙️ Technical Stack
 
 
 ## Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,sql"/>
+
+</div>
 
 
-## Backend & Distributed Systems
+## Backend & Systems
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,redis,postgres"/>
+
+</div>
 
 
-## Systems & Infrastructure
+## Cloud & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,aws"/>
+
+</div>
 
 
 ## AI Engineering
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-purple?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-black?style=for-the-badge)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</div>
 
 
 ---
 
-# 🚀 Featured Projects
+
+# 🚀 Featured Engineering Projects
 
 
 ## ⚡ TurboCache
@@ -99,23 +136,31 @@ Currently exploring:
 ### High Performance C++20 In-Memory Cache Engine
 
 
-A low-latency caching system built to explore
-modern systems programming, concurrency and memory optimization.
+A low latency caching engine built using modern C++ concepts
+focused on memory optimization, concurrency and event-driven networking.
 
 
-### Engineering Highlights:
+### Engineering Highlights
 
-- Designed a custom in-memory cache engine using modern C++20
-- Implemented memory optimization using `std::pmr`
-- Built event-driven networking using Linux `epoll`
-- Implemented concurrent access using lock striping
-- Developed LRU based eviction mechanisms
-- Added benchmarking and performance monitoring
+- C++20 based systems programming
+- Custom memory management using `std::pmr`
+- Linux `epoll` based networking
+- Concurrent cache architecture
+- Sharded LRU eviction strategy
+- Performance benchmarking
+- Docker deployment
 
 
-### Tech Stack:
+### Technologies
 
-`C++20` `CMake` `Linux Networking` `Concurrency` `Docker`
+
+C++20
+CMake
+Linux Networking
+Multithreading
+Concurrency
+Docker
+
 
 
 Repository:
@@ -127,29 +172,62 @@ https://github.com/Amanbhatti008/TurboCache
 ---
 
 
-## 🔄 FlowForge AI
-
-### Distributed Workflow Orchestration Platform
+# 🔄 FlowForge AI
 
 
-A cloud-native workflow automation platform designed around
-event-driven architecture and distributed task execution.
+## Distributed Workflow Orchestration Platform
 
 
-### Engineering Highlights:
-
-- Designed backend services using Spring Boot
-- Built asynchronous execution using Apache Kafka
-- Implemented distributed locking with Redis
-- Developed workflow management APIs
-- Added PostgreSQL based persistence layer
-- Containerized services using Docker
-- Designed scalable architecture for future microservices expansion
+A cloud-native workflow automation platform designed using
+event-driven backend architecture.
 
 
-### Tech Stack:
+### Architecture
 
-`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `React` `Docker`
+
+
+React Frontend
+
+    ↓
+
+Spring Boot Backend
+
+    ↓
+
+Kafka Event Pipeline
+
+    ↓
+
+Worker Execution Engine
+
+    ↓
+
+PostgreSQL + Redis
+
+
+
+### Engineering Highlights
+
+- REST API design
+- Event driven architecture
+- Kafka based messaging
+- Distributed task execution
+- Redis distributed locking
+- JWT authentication
+- Dockerized deployment
+
+
+### Technologies
+
+
+Java
+Spring Boot
+Apache Kafka
+Redis
+PostgreSQL
+React
+Docker
+
 
 
 Repository:
@@ -161,43 +239,57 @@ https://github.com/Amanbhatti008/FLOWFORGE-AI
 ---
 
 
-## 🚗 LuminaVision ADAS
+# 🚗 LuminaVision ADAS
 
 
-### AI Powered Driver Assistance System
+## AI Based Driver Assistance System
 
 
-Computer vision based safety system for real-time
-environment perception and driver monitoring.
+Computer vision based safety system focused on
+real-time perception and analysis.
 
 
-### Engineering Highlights:
+### Features
 
-- Real-time object detection pipeline
-- Lane detection system
-- Driver fatigue monitoring
-- Collision risk analysis
+- Object detection
+- Lane detection
+- Driver monitoring
+- Collision risk estimation
 
 
-### Tech Stack:
+### Technologies
 
-`Python` `OpenCV` `YOLO` `Computer Vision`
+
+Python
+OpenCV
+YOLO
+Deep Learning
+Computer Vision
+
 
 
 
 ---
 
 
-# 📊 Coding Profile
+# 📊 Competitive Programming
 
 
-## LeetCode
+<div align="center">
 
-- 170+ Problems Solved
-- Contest Rating: 1600+
-- Strong Areas:
+<img src="https://leetcard.jacoblin.cool/Amanbhatti008?theme=dark&font=Baloo&ext=contest"/>
+
+</div>
+
+
+Achievements:
+
+- 170+ LeetCode Problems Solved
+- Contest Rating 1600+
+- Strong focus on:
   - Data Structures
   - Algorithms
+  - Graphs
   - Dynamic Programming
   - Problem Solving
 
@@ -205,35 +297,82 @@ environment perception and driver monitoring.
 
 ---
 
-# 🏗️ Engineering Principles
+
+# 📚 Computer Science Foundation
 
 
-I focus on building software with:
 
-- Clean architecture
-- Scalable system design
-- Efficient algorithms
-- Reliable backend services
-- Performance optimization
-- Production-ready development practices
+Data Structures & Algorithms
+
+Object Oriented Programming
+
+Operating Systems
+
+Computer Networks
+
+Database Management Systems
+
+System Design
+
+Distributed Systems
+
+
+
+
+---
+
+
+# 🏗️ Engineering Philosophy
+
+
+> "Great software is not only about writing code,
+> it is about designing systems that are scalable,
+> reliable and maintainable."
+
+
+I focus on:
+
+✅ Clean and maintainable code
+
+✅ Understanding system architecture
+
+✅ Building production-oriented projects
+
+✅ Performance optimization
+
+✅ Learning large-scale system design
+
 
 
 ---
 
-# 📈 Currently Improving
+
+# 📈 Currently Learning
 
 
-- Advanced System Design
-- Distributed Systems
-- Cloud Architecture
-- Low-Level Systems Programming
-- Competitive Programming
+
+Advanced System Design
+
+Distributed Systems
+
+Cloud Infrastructure
+
+Low Level Programming
+
+Backend Scalability
+
+Software Architecture
+
+
 
 
 ---
+
 
 <div align="center">
 
-### Building reliable systems, one component at a time 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
+
+### 🚀 Building towards becoming a Software Engineer
 
 </div>
