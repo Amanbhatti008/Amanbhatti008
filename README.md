@@ -1,27 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aman+Bhatti+%F0%9F%91%8B;Software+Engineer+in+Progress;Building+Scalable+Software+Systems;Backend+%7C+Systems+%7C+AI+Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aman%20Bhatti&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Progress;Backend+%7C+Systems+%7C+Cloud+Engineering;Building+Scalable+Software+Systems;Computer+Science+Undergraduate"/>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
-
-</div>
-
-
-# 👨‍💻 Aman Bhatti
-
-<div align="center">
-
-### Software Engineer | Backend Engineering | Distributed Systems
-
-Building reliable, scalable and production-oriented software systems
-with strong computer science fundamentals.
-
-</div>
-
-
-<div align="center">
 
 <a href="https://github.com/Amanbhatti008">
 <img src="https://img.shields.io/badge/GitHub-AmanBhatti008-black?style=for-the-badge&logo=github"/>
@@ -38,33 +21,30 @@ with strong computer science fundamentals.
 </div>
 
 
----
+# 👨‍💻 About Me
 
 
-# 🧠 About Me
+I am a Computer Science undergraduate focused on building
+**scalable, reliable and production-oriented software systems.**
 
 
-I am a Computer Science undergraduate passionate about designing
-and engineering software systems that solve real-world problems.
-
-
-My engineering interests include:
+My engineering interests revolve around:
 
 
 - Backend Engineering
-- Distributed Systems
-- System Design
-- Cloud Native Applications
 - Software Architecture
+- Distributed Systems
+- Cloud Infrastructure
+- System Design
 - Performance Engineering
-- Artificial Intelligence Systems
+- Artificial Intelligence Applications
 
 
-I enjoy understanding how modern software systems work internally:
+I enjoy understanding how real-world systems are designed:
 
 
 
-Client Request
+User Request
 
   ↓
 
@@ -88,14 +68,14 @@ Cloud Infrastructure
 
 
 
-Currently focused on improving:
+Currently improving my skills in:
 
 
-- Data Structures & Algorithms
+- Advanced Data Structures & Algorithms
 - Object Oriented Design
 - Operating Systems
 - Computer Networks
-- Database Systems
+- Database Internals
 - Large Scale System Design
 
 
@@ -103,10 +83,10 @@ Currently focused on improving:
 ---
 
 
-# 🛠️ Technical Skills
+# 🛠️ Technology Stack
 
 
-## Programming Languages
+## Languages
 
 
 <div align="center">
@@ -116,17 +96,7 @@ Currently focused on improving:
 </div>
 
 
-- C++ 
-- Java
-- Python
-- SQL
-
-
-
----
-
-
-## Backend Development
+## Backend Engineering
 
 
 <div align="center">
@@ -136,19 +106,7 @@ Currently focused on improving:
 </div>
 
 
-- REST API Development
-- Backend Architecture
-- Database Design
-- Authentication Systems
-- Caching Strategies
-- Service Communication
-
-
-
----
-
-
-## Systems & Cloud
+## Cloud & DevOps
 
 
 <div align="center">
@@ -158,19 +116,7 @@ Currently focused on improving:
 </div>
 
 
-- Linux Systems
-- Docker Containerization
-- Kubernetes Basics
-- Event Driven Architecture
-- CI/CD Automation
-- Cloud Deployment
-
-
-
----
-
-
-## AI Engineering
+## AI / ML
 
 
 <div align="center">
@@ -180,51 +126,62 @@ Currently focused on improving:
 </div>
 
 
-- Machine Learning Applications
-- Computer Vision
-- Generative AI
-- RAG Systems
-
-
 
 ---
 
 
-# 🚀 Featured Projects
+# 🚀 Featured Engineering Projects
 
 
-# ⚡ TurboCache
+## ⚡ TurboCache
 
-## High Performance C++20 In-Memory Cache Engine
+### High Performance C++20 In-Memory Cache Engine
 
 
-A low latency caching engine built to explore
-modern systems programming, concurrency and performance optimization.
+A low-latency caching system built to explore
+modern C++ systems programming, concurrency and performance optimization.
 
 
 ### Engineering Highlights
 
 
-- Modern C++20 architecture
+- Modern C++20 based architecture
 - Custom memory management using `std::pmr`
-- Linux `epoll` based networking
+- Event-driven networking using Linux `epoll`
 - Concurrent cache operations
 - Sharded LRU eviction strategy
 - Performance benchmarking
-- Docker deployment
+- Docker based deployment
+
+
+### Architecture
+
+
+
+Client
+
+↓
+
+Network Layer
+
+↓
+
+Cache Engine
+
+↓
+
+Memory Manager
+
+↓
+
+Storage Layer
+
 
 
 ### Tech Stack
 
 
-
-C++20
-CMake
-Linux Networking
-Multithreading
-Concurrency
-Docker
-
+`C++20` `CMake` `Linux` `Concurrency` `Networking` `Docker`
 
 
 Repository:
@@ -242,11 +199,11 @@ https://github.com/Amanbhatti008/TurboCache
 ## Distributed Workflow Orchestration Platform
 
 
-A cloud-native workflow automation platform designed using
+A cloud-native workflow automation platform designed around
 event-driven backend architecture.
 
 
-### Architecture
+### System Architecture
 
 
 
@@ -254,7 +211,7 @@ React Frontend
 
     ↓
 
-Spring Boot Backend
+Spring Boot Services
 
     ↓
 
@@ -273,28 +230,19 @@ PostgreSQL + Redis
 ### Engineering Highlights
 
 
-- REST API design
-- Event driven architecture
-- Kafka based messaging
+- RESTful backend architecture
+- Event-driven communication
+- Kafka based message processing
 - Distributed task execution
 - Redis distributed locking
 - JWT authentication
-- Dockerized deployment
-
+- Containerized deployment
 
 
 ### Tech Stack
 
 
-
-Java
-Spring Boot
-Apache Kafka
-Redis
-PostgreSQL
-React
-Docker
-
+`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `React` `Docker`
 
 
 Repository:
@@ -312,8 +260,8 @@ https://github.com/Amanbhatti008/FLOWFORGE-AI
 ## AI Based Driver Assistance System
 
 
-Computer vision based safety system
-focused on real-time perception and analysis.
+Computer vision based safety system focused on
+real-time perception and intelligent analysis.
 
 
 ### Features
@@ -325,24 +273,17 @@ focused on real-time perception and analysis.
 - Collision Risk Assessment
 
 
-
 ### Tech Stack
 
 
-
-Python
-OpenCV
-YOLO
-Deep Learning
-Computer Vision
-
+`Python` `OpenCV` `YOLO` `Deep Learning` `Computer Vision`
 
 
 
 ---
 
 
-# 📊 Competitive Programming
+# 📊 Problem Solving
 
 
 <div align="center">
@@ -352,68 +293,84 @@ Computer Vision
 </div>
 
 
-### Problem Solving
+### Competitive Programming
 
 
 - 170+ LeetCode Problems Solved
 - Contest Rating 1600+
-- Strong Focus Areas:
+- Strong Areas:
 
-  - Data Structures
-  - Algorithms
-  - Graphs
-  - Dynamic Programming
+  - Arrays
   - Trees
+  - Graph Algorithms
+  - Dynamic Programming
+  - Data Structures
 
 
 
 ---
 
 
-# 📚 Computer Science Foundation
+# 📚 Computer Science Fundamentals
 
 
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- Software Engineering
-- System Design
-- Distributed Systems
+<div align="center">
 
 
-
----
-
-
-# 🏗️ Engineering Philosophy
-
-
-> Building software is not only about writing code,
-> it is about designing systems that are scalable,
-> reliable and maintainable.
-
-
-I focus on:
+| Area | Topics |
+|---|---|
+| Algorithms | Data Structures, Problem Solving, Complexity Analysis |
+| OOP | Design Principles, Object Modeling |
+| Operating Systems | Processes, Threads, Memory Management |
+| Networks | HTTP, TCP/IP, Communication Models |
+| Databases | SQL, Indexing, Transactions |
+| Software Engineering | Architecture, Testing, Design Patterns |
+| System Design | Scalability, Reliability, Trade-offs |
 
 
-✅ Writing clean and maintainable code
-
-✅ Understanding system architecture
-
-✅ Designing scalable solutions
-
-✅ Learning production engineering
-
-✅ Improving problem solving skills
+</div>
 
 
 
 ---
 
 
-# 📈 Current Focus
+# 🏗️ Engineering Principles
+
+
+I believe great software engineering is about:
+
+
+
+Clean Code
++
+Strong Fundamentals
++
+System Thinking
++
+Continuous Improvement
+
+
+
+Things I focus on:
+
+
+✅ Writing maintainable software
+
+✅ Designing scalable architectures
+
+✅ Understanding engineering trade-offs
+
+✅ Building production-ready applications
+
+✅ Improving problem solving ability
+
+
+
+---
+
+
+# 📈 Currently Learning
 
 
 🚀 Advanced System Design
@@ -426,7 +383,7 @@ I focus on:
 
 🚀 Low Level Programming
 
-🚀 Production Software Engineering
+🚀 Production Engineering
 
 
 
@@ -435,10 +392,20 @@ I focus on:
 
 <div align="center">
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=tokyonight&hide_border=true"/>
+
+
+<br/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 
-### Building towards Software Engineering excellence 🚀
+### Building towards becoming a Software Engineer 🚀
 
 
 </div>
