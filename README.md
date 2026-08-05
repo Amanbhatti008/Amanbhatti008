@@ -1,116 +1,204 @@
 <div align="center">
 
-<!-- Modern Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aman+Bhatti+%F0%9F%91%8B;Building+Distributed+Systems;Backend+%7C+C%2B%2B+%7C+Java+%7C+Cloud;Software+Engineer+in+Progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%99%8F+Namaste+%7C+Welcome+to+my+GitHub;%F0%9F%91%A8%F0%9F%92%BB+Aman+Bhatti;%F0%9F%9A%80+Software+Engineer+%7C+SWE;%E2%9A%99%EF%B8%8F+Backend+%26+Distributed+Systems;%E2%98%81%EF%B8%8F+Building+Scalable+Software+Systems" />
 
-<br/>
+<br><br>
 
-<!-- 3D Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=150&section=header" width="100%"/>
-
-<h1 align="center">👨‍💻 Aman Bhatti</h1>
-<h3 align="center">Software Engineer | Backend Architecture | Distributed Systems</h3>
-
-<p align="center">Building scalable, fault-tolerant software systems by combining<br><b>Core Fundamentals, Production Engineering, and AI-Driven Architecture.</b></p>
-
-<p align="center">
-  <a href="https://github.com/Amanbhatti008">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aman-bhatti01">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Amanbhatti008">
-    <img src="https://img.shields.io/badge/LeetCode-1600%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
-</div>
-
----
-
-### 🧠 Engineering Profile
-
-I am a Computer Science undergraduate specializing in designing and building resilient backend architectures. My core focus lies in understanding how components are stitched together under the hood to ensure zero data loss and extreme scalability.
-
-**Domain Focus:**
-*   **Distributed Systems:** Message Queues (Kafka), Fault Tolerance, Distributed Locks.
-*   **Backend Engineering:** Scalable REST APIs, Connection Pooling, Idempotency.
-*   **Low-Level Systems:** Memory optimization, Concurrency, C++20 standard.
-*   **Open Source:** Contributor at GirlScript Summer of Code (GSSoC) 2026.
-
-> **The Production Lifecycle:** Client Request ➔ Load Balancer ➔ Backend Services ➔ Message Queue (DLQs) ➔ PostgreSQL + Redis ➔ Cloud Infrastructure
-
----
-
-### ⚙️ Technical Arsenal
-
-<div align="center">
-  
-**Programming Languages**<br>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,sql&theme=dark" /><br><br>
-
-**Backend & Distributed Systems**<br>
-<img src="https://skillicons.dev/icons?i=spring,kafka,redis,postgres,nodejs&theme=dark" /><br><br>
-
-**Cloud, DevOps & Infrastructure**<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,aws&theme=dark" />
-
-</div>
-
----
-
-### 🚀 Featured Engineering Projects
-
-#### 🔄 FlowForge AI | *Distributed Workflow Orchestration Platform*
-An AWS Step Functions-style orchestration platform built to execute thousands of concurrent background tasks with zero data loss during server crashes.
-*   **Absolute Idempotency:** Implemented Redis Watchdog locks and PostgreSQL composite constraints to make duplicate execution mathematically impossible.
-*   **Chaos Tested Fault Tolerance:** Engineered manual ACKs and Dead Letter Queues (DLQ) in Apache Kafka to handle corrupted JSONs (Poison Pills) without stalling the consumer.
-*   **Resource Optimization:** Replaced standard annotations with `TransactionTemplate` to keep the HikariCP connection pool 100% free during high-latency API calls, preventing deadlocks.
-*   **AI Integration:** React Flow DAG interface with OpenAI-powered text-to-workflow generation and automated Root Cause Analysis (RCA) for failed nodes.
-*   **Stack:** *Java, Spring Boot, Apache Kafka, Redis, PostgreSQL, Docker*
-
-#### ⚡ TurboCache | *High-Performance C++20 In-Memory Cache Engine*
-A low-latency caching engine built using modern C++ concepts, focusing on extreme memory optimization and event-driven networking.
-*   **Systems Programming:** Engineered using modern C++20 paradigms and custom memory management via `std::pmr`.
-*   **High-Throughput Networking:** Implemented Linux `epoll` based event loops for non-blocking network I/O.
-*   **Concurrency & Eviction:** Built a thread-safe architecture with a sharded LRU eviction strategy to minimize lock contention.
-*   **Stack:** *C++20, CMake, Linux Networking, Multithreading*
-
-#### 🚗 LuminaVision ADAS | *AI-Based Driver Assistance System*
-A computer vision-based safety system focused on real-time perception, demonstrating end-to-end integration of ML models.
-*   Real-time object and lane detection using YOLO and OpenCV.
-*   Low-latency driver monitoring and collision risk estimation.
-*   **Stack:** *Python, OpenCV, TensorFlow, Deep Learning*
-
----
-
-### 📊 Analytics, CP & Open Source
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanbhatti008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbhatti008&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 <br>
 
-*   **Algorithms & Data Structures:** 170+ LeetCode Problems Solved. Rating 1600+.
-*   **Performance Optimization:** Focus on algorithmic pattern recognition, memory limits, and converting brute-force $O(n^2)$ logic into optimized $O(n)$ implementations.
-*   **Open Source:** Contributor to **GirlScript Summer of Code (GSSoC) 2026** (Open Source & AI/Agents tracks).
+### Software Engineering Student
+
+### Backend & Distributed Systems Enthusiast
+
+Building reliable systems using:
+
+**Java • C++ • Spring Boot • Kafka • Cloud**
+
+<br>
+
+🟢 Open to Software Engineering Internships & New Grad Opportunities
+
+<br><br>
+
+<a href="https://github.com/Amanbhatti008">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/aman-bhatti01">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
 
 ---
 
-### 🏗️ Engineering Philosophy
+## 👨‍💻 About
 
-> *"Great software is not just about writing code; it's about understanding how systems, services, and components are stitched together to make a product resilient at scale."*
+Computer Science undergraduate focused on building scalable backend systems and solving complex engineering problems.
 
-*   ✅ **Clean & Maintainable:** Adhering strictly to SOLID principles and Design Patterns (LLD).
-*   ✅ **Production-Oriented:** Building systems with CI/CD, Docker, and comprehensive testing in mind.
-*   ✅ **Trade-off Analysis:** Always ready to justify why a specific database, cache, or queue was chosen for the architecture.
+Interested in:
 
-<br/>
+- Distributed Systems
+- Backend Architecture
+- System Design
+- Cloud Native Applications
+- Performance Engineering
+
+
+Currently building projects around:
+
+→ Event-driven systems  
+→ High performance C++ applications  
+→ AI-powered engineering tools  
+
+
+---
+
+# 🚀 Featured Work
+
+
+## 🔥 FlowForge AI
+
+### Distributed Workflow Orchestration Platform
+
+A production-inspired workflow engine for designing, scheduling and executing distributed tasks.
+
+**Engineering Highlights**
+
+✓ DAG based workflow execution  
+✓ Kafka event-driven processing  
+✓ Redis based distributed locking  
+✓ PostgreSQL persistence layer  
+✓ Docker & Kubernetes deployment  
+✓ React workflow builder  
+
+
+Stack:
+
+
+Java | Spring Boot | Kafka | Redis | PostgreSQL | Docker | Kubernetes
+
+
+
+---
+
+## ⚡ TurboCache
+
+### High Performance C++20 Cache Engine
+
+A low latency in-memory cache system focused on performance and concurrency.
+
+Engineering concepts:
+
+✓ Modern C++20
+✓ Multithreading
+✓ Memory optimization
+✓ LRU eviction
+✓ Linux networking
+
+
+Stack:
+
+
+C++20 | Linux | CMake | Networking
+
+
+
+---
+
+## 🚗 LuminaVision ADAS
+
+### AI Based Driver Assistance System
+
+Computer vision platform for intelligent driving assistance.
+
+Features:
+
+✓ Lane detection  
+✓ Object detection  
+✓ Collision warning  
+✓ Driver monitoring
+
+
+Stack:
+
+
+Python | OpenCV | YOLO | Deep Learning
+
+
+
+---
+
+# 🛠 Tech Stack
+
+
+### Languages
+
+C++ | Java | Python | SQL
+
+
+### Backend
+
+Spring Boot | REST APIs | Kafka | Redis
+
+
+### Database
+
+PostgreSQL | MySQL
+
+
+### Infrastructure
+
+Docker | Kubernetes | Linux | CI/CD
+
+
+### AI & ML
+
+Computer Vision | Deep Learning | AI Systems
+
+# 🧠 Engineering Mindset
+
+> "Good software is not only about writing code.  
+> It is about designing systems that remain reliable under scale."
+
+
+I focus on:
+
+- Writing maintainable code
+- Understanding system trade-offs
+- Building production-oriented projects
+- Improving performance and reliability
+
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Low Level Design
+
+
+---
+
+# 🤝 Looking For
+
+Open to:
+
+✅ Software Engineering Internships  
+✅ Backend Engineering Roles  
+✅ Distributed Systems Opportunities  
+
+
+---
 
 <div align="center">
-<!-- 3D Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
+
 </div>
