@@ -1,55 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" role="img" aria-label="Full stack architecture: React, Spring Boot, FastAPI, Kafka, Redis, PostgreSQL on Kubernetes">
-<style>text{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}.k{animation:dash 1.4s linear infinite}@keyframes dash{to{stroke-dashoffset:-16}}</style>
-<rect width="960" height="400" rx="14" fill="#050B18"/>
-<rect x="0.5" y="0.5" width="959" height="399" rx="14" fill="none" stroke="#2563EB" stroke-opacity=".6"/>
-<text x="30" y="40" font-size="18" font-weight="700" fill="#38BDF8">aman.architecture</text>
-<text x="30" y="60" font-size="11.5" fill="#64748B">my stack, layer by layer: from React UI to Kubernetes</text>
-<rect class="k" x="215" y="88" width="730" height="290" rx="12" fill="none" stroke="#6366F1" stroke-width="1.5" stroke-dasharray="8 6"/>
-<text x="232" y="110" font-size="11" fill="#818CF8">Kubernetes  |  Docker  |  AWS (EC2, IAM)  |  Jenkins + GitHub Actions</text>
-
-<path d="M170,195 L235,195" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-<path d="M395,195 L460,195" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-<path d="M580,195 L645,195" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-<path d="M765,195 C795,195 795,140 825,140" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-<path d="M765,195 C795,195 795,250 825,250" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-<path d="M315,240 L315,290" stroke="#334155" stroke-width="2" fill="none" stroke-dasharray="4 4"/>
-
-<rect x="30" y="150" width="140" height="90" rx="10" fill="#0B1428" stroke="#38BDF8" stroke-width="1.6"/>
-<text x="100" y="191" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">Client</text>
-<text x="100" y="211" font-size="10.5" fill="#94A3B8" text-anchor="middle">React  TypeScript</text>
-
-<rect x="235" y="150" width="160" height="90" rx="10" fill="#0B1428" stroke="#4ADE80" stroke-width="1.6"/>
-<text x="315" y="191" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">API Layer</text>
-<text x="315" y="211" font-size="10.5" fill="#94A3B8" text-anchor="middle">Spring Boot  FastAPI</text>
-
-<rect x="460" y="150" width="120" height="90" rx="10" fill="#0B1428" stroke="#FBBF24" stroke-width="1.6"/>
-<text x="520" y="191" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">Kafka</text>
-<text x="520" y="211" font-size="10.5" fill="#94A3B8" text-anchor="middle">event bus</text>
-
-<rect x="645" y="150" width="120" height="90" rx="10" fill="#0B1428" stroke="#4ADE80" stroke-width="1.6"/>
-<text x="705" y="191" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">Workers</text>
-<text x="705" y="211" font-size="10.5" fill="#94A3B8" text-anchor="middle">Java  DAG engine</text>
-
-<rect x="825" y="110" width="115" height="60" rx="10" fill="#0B1428" stroke="#818CF8" stroke-width="1.6"/>
-<text x="882.5" y="136" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">PostgreSQL</text>
-<text x="882.5" y="156" font-size="10.5" fill="#94A3B8" text-anchor="middle">persistence</text>
-
-<rect x="825" y="220" width="115" height="60" rx="10" fill="#0B1428" stroke="#F87171" stroke-width="1.6"/>
-<text x="882.5" y="246" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">Redis</text>
-<text x="882.5" y="266" font-size="10.5" fill="#94A3B8" text-anchor="middle">locks  cache</text>
-
-<rect x="235" y="290" width="160" height="60" rx="10" fill="#0B1428" stroke="#38BDF8" stroke-width="1.6"/>
-<text x="315" y="316" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">AI Service</text>
-<text x="315" y="336" font-size="10.5" fill="#94A3B8" text-anchor="middle">FastAPI  YOLOv8</text>
-
-<rect x="460" y="290" width="305" height="60" rx="10" fill="#0B1428" stroke="#FBBF24" stroke-width="1.6"/>
-<text x="612.5" y="316" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="middle">TurboCache</text>
-<text x="612.5" y="336" font-size="10.5" fill="#94A3B8" text-anchor="middle">C++20  epoll  14K+ req/s</text>
-
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="0s" repeatCount="indefinite" path="M170,195 L235,195"/></circle>
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="0.7s" repeatCount="indefinite" path="M395,195 L460,195"/></circle>
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="1.4s" repeatCount="indefinite" path="M580,195 L645,195"/></circle>
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="2.1s" repeatCount="indefinite" path="M765,195 C795,195 795,140 825,140"/></circle>
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="2.1s" repeatCount="indefinite" path="M765,195 C795,195 795,250 825,250"/></circle>
-<circle r="4.5" fill="#38BDF8"><animateMotion dur="1.6s" begin="0.4s" repeatCount="indefinite" path="M315,240 L315,290"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340" role="img" aria-label="Aman Bhatti - Full Stack and Backend Engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B18"/><stop offset="1" stop-color="#0F1E45"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1E3A8A" stroke-opacity=".28" stroke-width="1"/></pattern>
+</defs>
+<style>
+text{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}
+.l0{opacity:0;animation:a0 12s infinite}
+@keyframes a0{0%,6%{opacity:0}7%,88%{opacity:1}95%,100%{opacity:0}}
+.l1{opacity:0;animation:a1 12s infinite}
+@keyframes a1{0%,16%{opacity:0}17%,88%{opacity:1}95%,100%{opacity:0}}
+.l2{opacity:0;animation:a2 12s infinite}
+@keyframes a2{0%,26%{opacity:0}27%,88%{opacity:1}95%,100%{opacity:0}}
+.l3{opacity:0;animation:a3 12s infinite}
+@keyframes a3{0%,36%{opacity:0}37%,88%{opacity:1}95%,100%{opacity:0}}
+.l4{opacity:0;animation:a4 12s infinite}
+@keyframes a4{0%,46%{opacity:0}47%,88%{opacity:1}95%,100%{opacity:0}}
+.l5{opacity:0;animation:a5 12s infinite}
+@keyframes a5{0%,56%{opacity:0}57%,88%{opacity:1}95%,100%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 1.8s ease-out infinite;transform-origin:892px 66px}@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+</style>
+<rect width="960" height="340" rx="14" fill="url(#bg)"/>
+<rect width="960" height="340" rx="14" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="959" height="339" rx="14" fill="none" stroke="#2563EB" stroke-opacity=".6"/>
+<circle cx="28" cy="26" r="6" fill="#F87171"/><circle cx="48" cy="26" r="6" fill="#FBBF24"/><circle cx="68" cy="26" r="6" fill="#4ADE80"/>
+<text x="90" y="30" font-size="12" fill="#64748B">aman@prod: ~/portfolio  (bash)</text>
+<circle class="pulse" cx="892" cy="66" r="5" fill="#4ADE80"/><circle cx="892" cy="66" r="5" fill="#4ADE80"/>
+<text x="875" y="70" font-size="12" fill="#4ADE80" text-anchor="end">AVAILABLE</text>
+<text x="60" y="92" font-size="46" font-weight="700" fill="url(#nm)">Aman Bhatti</text>
+<text x="60" y="120" font-size="16" fill="#94A3B8">Full Stack  |  Backend  |  Distributed Systems Engineer</text>
+<line x1="60" y1="138" x2="900" y2="138" stroke="#1E3A8A" stroke-opacity=".8"/>
+<text class="l0" x="60" y="172" font-size="15" fill="#E2E8F0" xml:space="preserve">$ ./boot --profile aman</text>
+<text class="l1" x="60" y="196" font-size="15" fill="#4ADE80" xml:space="preserve">[ OK ] java-spring-backend ........ UP</text>
+<text class="l2" x="60" y="220" font-size="15" fill="#4ADE80" xml:space="preserve">[ OK ] kafka + redis + postgres ... UP</text>
+<text class="l3" x="60" y="244" font-size="15" fill="#4ADE80" xml:space="preserve">[ OK ] react-ui + rest-api ........ UP</text>
+<text class="l4" x="60" y="268" font-size="15" fill="#FBBF24" xml:space="preserve">[ OK ] leetcode-knight ............ 1955</text>
+<text class="l5" x="60" y="292" font-size="15" fill="#38BDF8" xml:space="preserve">[ .. ] open-to-work ............... SUMMER 2027</text>
+<rect class="cur" x="60" y="304" width="9" height="16" fill="#38BDF8"/>
+<text x="900" y="316" font-size="12" fill="#475569" text-anchor="end">Java  Spring Boot  Python  FastAPI  C++20  React  Kafka  Redis  PostgreSQL  K8s</text>
 </svg>
